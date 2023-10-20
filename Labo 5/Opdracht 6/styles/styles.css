@@ -1,0 +1,33 @@
+.header1 {
+    font-family: Arial, sans-serif;
+    font-size: 1.8em;
+}
+
+.header2 {
+    font-family: Arial, sans-serif;
+    font-size: 1.5em;
+}
+
+/* Stijl voor H3-hoofding */
+.header3 {
+    font-family: Arial, sans-serif;
+    font-size: 1.4em;
+}
+
+.red-text {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: red;
+}
+
+.green-text {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: green;
+}
+
+.blue-text {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: blue;
+}
