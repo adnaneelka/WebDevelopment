@@ -1,0 +1,26 @@
+body {
+    font-family: "Verdana", sans-serif;
+}
+header {
+    background-color: midnightblue;
+}
+section {
+    background-color: lightblue;
+}
+body {
+    background-color: midnightblue;
+}
+
+header h1 {
+    font-size: 80px;
+    color: black;
+}
+
+h2 {
+    font-size:40px;
+    color: black;
+}
+
+a {
+    color : #EF233C;
+}
