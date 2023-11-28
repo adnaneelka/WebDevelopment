@@ -4,12 +4,13 @@ body {
     margin: 0 auto;
 }
 
-.even {
-    float: right;
-}
 
 .oneven {
     float: left;
+}
+
+.even {
+    float: right;
 }
 
 article {
